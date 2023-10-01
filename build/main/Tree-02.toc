@@ -1,5 +1,0 @@
-('/opt/homebrew/lib/python3.11/site-packages/simplejson-3.19.1-py3.11-macosx-13-arm64.egg',
- None,
- {'*.py', '*.cpython-311-darwin.so', '*.abi3.so', '*.so', 'EGG-INFO', '*.pyc'},
- 'DATA',
- [])
