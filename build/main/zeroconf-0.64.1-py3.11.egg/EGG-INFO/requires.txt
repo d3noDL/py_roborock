@@ -1,0 +1,4 @@
+ifaddr>=0.1.7
+
+[:python_version < "3.11"]
+async-timeout>=3.0.0

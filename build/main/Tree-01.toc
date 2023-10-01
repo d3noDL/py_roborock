@@ -1,0 +1,5 @@
+('/opt/homebrew/lib/python3.11/site-packages/requests-2.31.0-py3.11.egg',
+ None,
+ {'*.py', '*.cpython-311-darwin.so', '*.abi3.so', '*.so', 'EGG-INFO', '*.pyc'},
+ 'DATA',
+ [])
